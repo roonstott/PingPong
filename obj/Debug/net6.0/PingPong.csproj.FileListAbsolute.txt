@@ -1,0 +1,5 @@
+/Users/robertonstott/Desktop/ping-pong/obj/Debug/net6.0/PingPong.csproj.AssemblyReference.cache
+/Users/robertonstott/Desktop/ping-pong/obj/Debug/net6.0/PingPong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertonstott/Desktop/ping-pong/obj/Debug/net6.0/PingPong.AssemblyInfoInputs.cache
+/Users/robertonstott/Desktop/ping-pong/obj/Debug/net6.0/PingPong.AssemblyInfo.cs
+/Users/robertonstott/Desktop/ping-pong/obj/Debug/net6.0/PingPong.csproj.CoreCompileInputs.cache
